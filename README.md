@@ -1,4 +1,4 @@
-# site_de_streaming
+# aluraplus
 Estudos de criação de site de streaming com HTML e CSS.
 
 Link
